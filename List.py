@@ -42,3 +42,5 @@ print(lucky_number)
 friends2 = friends.copy() #copy list
 print(friends2)
 
+print("--------------------------------------")
+

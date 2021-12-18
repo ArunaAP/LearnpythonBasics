@@ -5,12 +5,11 @@ print(employee_file.readable()) #true or false
 #print(employee_file.read())
 
 
-'''
 print(employee_file.readline()) #print line
 print(employee_file.readline()) # by line
 
 print(employee_file.readlines()) # print like list 
-'''
+
 
 #using for loop
 for employee in employee_file.readlines():
